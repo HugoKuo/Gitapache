@@ -1,0 +1,4 @@
+<VirtualHost *:81>
+  ServerName phpmyadmin
+  DocumentRoot /usr/share/phpmyadmin
+</VirtualHost>
